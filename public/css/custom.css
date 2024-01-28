@@ -1,0 +1,22 @@
+.content-wrapper {
+    background-image: url("/images/rosalife-images/background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.login-page {
+    background-image: url("/images/rosalife-images/background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lockscreen {
+    background-image: url("/images/rosalife-images/background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}

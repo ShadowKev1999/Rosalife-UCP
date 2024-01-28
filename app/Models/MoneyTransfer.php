@@ -1,0 +1,18 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+
+class MoneyTransfer extends Model
+{
+    use HasFactory;
+
+    protected $table = "zz_colucp_transactions";
+
+    protected $primaryKey = "ID";
+
+    public $timestamps = false;
+
+}
